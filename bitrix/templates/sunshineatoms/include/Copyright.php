@@ -1,0 +1,1 @@
+2014 &copy; Copyright <a href="/">Солнечный Кофе</a>.

@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Поддержка", 
+		"http://xn--80ahcjeib4ac4d.xn--p1ai/solutions/php/shablon_1s_bitriks_solnechnyy_kofe_1s_bitriks_upravlenie_saytom_php/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О нас", 
+		"http://xn--80ahcjeib4ac4d.xn--p1ai/information/about/komanda/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"/news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Написать нам", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
